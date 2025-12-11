@@ -1,7 +1,5 @@
 ## Erfan Hallaj – Profile & Resume
 
-### 🇬🇧 English – Freelance Profile
-
 **Title:**  
 AI-Powered Trading Systems Developer \| Crypto, NFT & DeFi Algorithmic Trader (7+ years)
 
@@ -39,10 +37,6 @@ I work both on **my own research projects** and on **custom solutions for client
 **Contact**  
 - GitHub: [@erfanhallaj](https://github.com/erfanhallaj)  
 - Email: `halajerfan12@gmail.com`  
-
----
-
-### 🇮🇷 فارسی – معرفی برای رزومه و فریلنس
 
 **عنوان:**  
 توسعه‌دهنده سیستم‌های معاملاتی خودآموز با پایتون \| تریدر کریپتو، NFT و DeFi (۷ سال سابقه)
